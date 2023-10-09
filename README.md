@@ -6,7 +6,7 @@
 
 They were designed to empower businesses worldwide and developed with **common customer requirements in mind**, and are used by **companies of all sizes, government organizations, and even educational institutions** to create stunning **Gantt chart applications** with more ease. Whether you or your end users need to **manage project schedules, track resources, or simply visualize timelines**, this library has got you covered.
 
-<img src="https://dlhsoft.com/GanttChartHyperLibrary/Documentation/Screenshots/HTML/Showcase.ScheduleCharts.png" height=460 alt="Gantt Chart & Schedule Chart" />
+<img src="https://dlhsoft.com/GanttChartHyperLibrary/Documentation/Screenshots/HTML/Showcase.Powerful.png" height=460 alt="Gantt Chart component" />
 
 FREE & UNLIMITED TRIAL & SUPPORT PROVIDED BY DEVELOPERS • CUSTOM SERVICES UPON REQUEST
 
