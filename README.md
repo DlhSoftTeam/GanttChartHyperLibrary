@@ -81,7 +81,7 @@ DlhSoft.Controls.GanttChartView.initialize(ganttChartView, items, settings);
 #### [GanttChartView](https://dlhsoft.com/GanttChartHyperLibrary/GanttChartView.html) ####
 Hierarchical data grid and attached scheduling chart with drag and drop support and dependency lines.
 
-<img src="https://dlhsoft.com/GanttChartHyperLibrary/Documentation/Screenshots/HTML/GanttChartView.MainFeatures.Generic-bright.Item.small.png" height=200/>
+<img src="https://dlhsoft.com/GanttChartHyperLibrary/Documentation/Screenshots/HTML/GanttChartView.MainFeatures.Generic-bright.Item.small.png?1" height=200/>
 
 #### [ScheduleChartView](https://dlhsoft.com/GanttChartHyperLibrary/ScheduleChartView.html) ####
 Scheduling chart that displays multiple bars on the same line with horizontal and vertical drag and drop support.
