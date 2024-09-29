@@ -1,6 +1,6 @@
 {
   "name": "@dlhsoft/ganttcharthyperlibrary",
-  "version": "5.3.20",
+  "version": "5.3.34",
   "description": "Gantt Chart library for JavaScript and TypeScript with Angular, React, and Vue extensions",
   "main": "DlhSoft.ProjectData.GanttChart.HTML.Controls.js",
   "scripts": {

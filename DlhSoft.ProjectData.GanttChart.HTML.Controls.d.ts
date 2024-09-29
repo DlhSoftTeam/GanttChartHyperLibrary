@@ -1,8 +1,8 @@
 ﻿/* Assembly: DlhSoft.ProjectData.GanttChart.HTML.Controls,
    Company: DlhSoft,
    Product: Project Data Modern Library,
-   Version: 5.3.20.2,
-   Copyright: Copyright © 2012-2023 DlhSoft,
+   Version: 5.3.20.12,
+   Copyright: Copyright © 2012-2024 DlhSoft,
    Title: Project Data Gantt Chart HTML Controls,
    Description: Project Data Gantt Chart related HTML client components */
 
@@ -446,6 +446,9 @@ declare module DlhSoft.Controls {
 
             isRelativeToTimezone?: boolean;
 
+            /** Default: true. */
+            extendTimelineToEntireWeeks?: boolean;
+
             /** Collection of objects indicating the scales to be presented in the chart. */
             scales?: Scale[];
 
@@ -602,8 +605,25 @@ declare module DlhSoft.Controls {
             /** Indicates whether to use multi-selector combo box controls for assignment cells in the grid when the required data control library is available. */
             useResourceSelector?: boolean;
 
+            /** Indicates whether to use tool tip controls generated inside the SVG content rather than title elements. True by default. */
+            useInlineToolTips?: boolean;
+
             /** Indicates whether to use tool tip controls for updating task start, finish, completion, dependencies, and/or assignments in the chart using drag and drop operations when the required data control library is available. */
             useUpdatingToolTips?: boolean;
+
+		validateStartFinish?: boolean;
+            percentBasedCompletionBar?: boolean;
+            integralCompletionPercents?: boolean;
+
+            /** Default: true. */
+            enableHorizontalScrollingDuringDragging?: boolean;
+            horizontalScrollingDragAreaWidth?: number;
+            horizontalScrollingDragAmount?: number;
+
+            /** Default: true. */
+            enableVerticalScrollingDuringDragging?: boolean;
+            verticalScrollingDragAreaHeight?: number;
+            verticalScrollingDragAmount?: number;
 
             /** Names of the months to use at presentation time. */
             months?: string[];
